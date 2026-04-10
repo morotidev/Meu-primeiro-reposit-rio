@@ -1,2 +1,2 @@
-- "Meu nome é Arthur, tenho 18 anos e quero aprender como usar o github de maneira mais profissional"
-- Minha meta é conseguir  fazer um projeto mais elaborado no github.
+- "Meu nome é Arthur, tenho 18 anos e quero aprender como usar o github de maneira mais profissional
+- Minha meta é conseguir  fazer um projeto mais elaborado no github."
