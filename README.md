@@ -1,1 +1,1 @@
-# "Meu nome é Arthur, tenho 18 anos e quero aprender como usar o github" 
+# "Meu nome é Arthur, e quero aprender como usar o github, maneira mais profissional"
